@@ -1,0 +1,162 @@
+{
+  "Header": {
+    "title": "EFM PLOMBERIE",
+    "paragraph": "Découvrez notre expertise en plomberie à Bastia."
+  },
+  "About": {
+    "paragraph": "Notre société, basée à Bastia, se distingue par son expertise variée dans les domaines de la plomberie, de la climatisation, de la VMC et du chauffage. Forts d'une expérience solide et d'une équipe compétente, nous nous engageons à offrir des solutions de qualité supérieure à nos clients. Que ce soit pour des installations, des réparations ou des conseils personnalisés, nous sommes déterminés à répondre efficacement aux besoins de chaque projet, tout en assurant un service fiable et professionnel.",
+    "Why": [
+      "Experts locaux en plomberie",
+      "Tarifs compétitifs et transparents",
+      "Service de haute qualité assuré",
+      "Engagement total envers la satisfaction client"
+    ],
+    "Why2": [
+      "Disponibilité et flexibilité garanties",
+      "Réputation de fiabilité et d'intégrité",
+      "Intervention rapide et efficace",
+      "Solutions adaptées à vos besoins spécifiques"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Un grand merci à l'équipe pour l'installation rapide et efficace de notre climatisation. Parfait pour les étés chauds de Bastia !\"",
+      "name": "Jean M."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Ils ont réglé notre problème de fuite en un rien de temps. Très pros et super sympas, je recommande à tous mes voisins.\"",
+      "name": "Luc D."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Depuis qu'ils ont installé notre VMC, on respire mieux à la maison. Travail soigné et équipe très agréable. Bravo !\"",
+      "name": "Alexandre P."
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"L'entretien de notre chaudière a été fait avec beaucoup de professionnalisme. Le technicien a pris le temps de tout expliquer. Super service !\"",
+      "name": "Sophie L."
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Nous avons refait toute la plomberie de notre salle de bain avec eux. Travail impeccable et très rapide. Entreprise de confiance, je les recommande vivement.\"",
+      "name": "Mario T."
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"La climatisation installée par cette équipe est parfaite. Ils ont été de très bon conseil et le travail a été fait proprement. On profite enfin d'un vrai confort à la maison.\"",
+      "name": "Claire V."
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "07 49 01 46 20",
+    "email": "m.elfachta@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-faucet-drip",
+      "title": "Plomberie",
+      "text": "Solutions complètes pour tous vos besoins en plomberie."
+    },
+    {
+      "icon": "fa fa-fan",
+      "title": "Climatisation",
+      "text": "Installez et entretenez vos systèmes de climatisation avec des experts."
+    },
+    {
+      "icon": "fa fa-wind",
+      "title": "VMC",
+      "text": "Améliorez la qualité de l'air intérieur grâce à nos systèmes VMC."
+    },
+    {
+      "icon": "fa fa-temperature-arrow-up",
+      "title": "Chauffage",
+      "text": "Des solutions de chauffage adaptées pour un confort thermique optimal."
+    }
+  ]
+}
