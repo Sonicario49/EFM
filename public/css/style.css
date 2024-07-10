@@ -239,6 +239,10 @@ a:focus,
   margin: 0 auto;
   margin-bottom: 60px;
 }
+.logo-img {
+  height: 90px; /* Ajustez la taille du logo selon vos besoins */
+  margin-top: -40px; /* Ajustez cette valeur pour centrer le logo verticalement */
+}
 header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;
