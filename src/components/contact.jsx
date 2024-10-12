@@ -25,11 +25,12 @@ export const Contact = (props) => {
     const templateParams = {
       from_name: name,
       from_email: email,
+      to_email: "efmplomberie@gmail.com",
       message: message,
     };
 
     emailjs
-      .send("service_8d8akcd", "template_q7wdzzv", templateParams, "cYzT0a5e8_o3JmOn2")
+      .send("service_wrpa64s", "template_q7wdzzv", templateParams, "cYzT0a5e8_o3JmOn2")
       .then(
         (result) => {
           console.log(result.text);

@@ -248,6 +248,48 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
+/* Media queries pour les petits écrans */
+@media screen and (max-width: 768px) {
+  .intro {
+    background-position: center top; /* Ajuste la position de l'image pour les écrans plus petits */
+  }
+
+  .intro h1 {
+    font-size: 48px; /* Réduit la taille du titre pour s'adapter aux petits écrans */
+  }
+
+  .intro p {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 40px;
+  }
+
+  header .intro-text {
+    padding-top: 200px; /* Réduit le padding pour compacter le contenu */
+    padding-bottom: 100px;
+  }
+}
+
+/* Media queries pour les très petits écrans (moins de 480px) */
+@media screen and (max-width: 480px) {
+  .intro {
+    background-position: center top;
+  }
+
+  .intro h1 {
+    font-size: 36px; /* Réduction supplémentaire pour les écrans très petits */
+  }
+
+  .intro p {
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  header .intro-text {
+    padding-top: 150px;
+    padding-bottom: 80px;
+  }
+}
 /* Features Section */
 #features {
   background: #f6f6f6;

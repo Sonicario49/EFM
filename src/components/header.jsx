@@ -14,8 +14,8 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#contact"
-                  className="btn btn-custom btn-lg page-scroll"
+                  href="tel:0749014620"  // Modifie ici pour lancer l'appel
+                  className="btn btn-custom btn-lg"
                 >
                   07 49 01 46 20
                 </a>{" "}
